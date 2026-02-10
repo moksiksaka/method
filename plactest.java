@@ -15,9 +15,9 @@ class plactest{
 			return rem;
 		}
 		void print(String rem){
-			System.out.println();
+			//System.out.println();
 			System.out.println(rem);
-			System.out.println();
+			//System.out.println();
 		}
 		public static void main(String[] args){
 			plactest ob = new plactest();
@@ -26,4 +26,5 @@ class plactest{
 			ob.print(rem);
 	}
 }
+
 
